@@ -1,7 +1,7 @@
 # Implementing ANNs with TensorFlow: Group 11
 
 IANNwTF Seminar @uos Winter Term 2021/2022
-
+  
 ## Table of Contents
 * [General Info](#general-info)
 * [Pipeline](#pipeline)
